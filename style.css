@@ -1,0 +1,48 @@
+body{
+    background-color: hsl(0, 0%, 8%);
+    font-family: inter;
+}
+.main{
+    background-color: hsl(0, 0%, 12%);
+    padding-top: 50px;
+    margin-top: 8%;
+    margin-bottom: 8%;
+    border-radius: 4%;
+}
+.social{
+    background-color: hsl(0, 0%, 20%);
+}
+.card-text{
+    width: 100%;
+    font-size: 14px;
+    color: #fff;
+    text-align: center;
+    font-weight: 200;
+}
+.card-title{
+    color: #fff;
+    font-size: 1.5rem;
+    text-align: center;
+    font-weight: 700;
+}
+.card-subtitle{
+    color: hsl(75, 94%, 57%);
+    text-align: center;
+    font-weight: 600;
+}
+.social-links{
+    width: 100%;
+    margin: 1%;
+    background-color: hsl(0, 0%, 20%);
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+}
+.social-links:hover{
+   background-color: hsl(75, 94%, 57%);
+}
+img{
+    width: 20%;
+    height: 17%;
+    border-radius: 50%;
+}
